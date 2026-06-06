@@ -10,13 +10,11 @@
 
       <main>
           <section class="dialogue-box">
-              <h2>W czym tkwi sekret?</h2>
               <p>Undertale to niezależna gra RPG stworzona przez Toby'ego Foxa w 2015 roku. To, co odróżnia ją od innych gier z tego gatunku, to fakt, że <span class="yellow-text">nie musisz nikogo zabijać</span>.</p>
               <p>Każdy konflikt można rozwiązać pokojowo poprzez rozmowę, komplementy, a nawet flirt. Twój wybór (Pacyfista, Neutralny, Ludobójca) drastycznie zmienia zakończenie gry i stosunek postaci do Ciebie.</p>
           </section>
 
           <section class="dialogue-box">
-              <h2>Kluczowe Postacie</h2>
               <div class="characters-grid">
                   <div class="character">
                       <img src="/toriel.png" alt="Grafika przedstawiająca Toriel" class="character-img">
